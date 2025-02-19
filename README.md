@@ -10,7 +10,7 @@ This project demonstrates how to set up a **simple web server on Red Hat Enterpr
 
 ---
 
-## **1. Installing Git on Red Hat Linux**  
+Installing Git on Red Hat Linux**  
 To push your project to GitHub, you need **Git** installed. Use the following command:  
 
 sudo yum install git -y
